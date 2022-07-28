@@ -4,7 +4,7 @@
 
 $npm install
 
-# Subindo o servidor local para utilizar o arquivo data.json como uma api(rodar em um terminal diferente)
+# Subindo o servidor local para utilizar o arquivo data.json como uma api(rodar em um terminal diferente) para testar abra http://localhost:3000/languages no navegador
 
 $npm run server
 
