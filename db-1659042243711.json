@@ -1,0 +1,24 @@
+{
+  "languages": [
+    {
+      "id": 1,
+      "name": "Api",
+      "info": "Comecei junto ao React a utilizar algumas API's para desenvolver meus projetos e aprender sobre o tema, estou estudando faz um mes."
+    },
+    {
+      "id": 2,
+      "name": "English",
+      "info": "Consigo desenrolar bastante, conversar  inglês, assistir videos, filmes em inglês, mas ainda não desenvolvi a conversa por meio da fala."
+    },
+    {
+      "id": 3,
+      "name": "SolidWorks",
+      "info": "Utilizei o software SolidWorks em uma experiência de emprego na Consilos, uma empresa de agronegócio, nela eu trabalhava na engenharia de produto, a maior parte das minhas atividades eram detalhamentos 2D para montagens internas e externas, tanto soldadas quanto parafusadas, foi nessa experiência que eu vi, que minha paixão era realmente a tecnologia, e o desenvolvimento web chamou muita atenção."
+    },
+    {
+      "id": 4,
+      "name": "CSS",
+      "info": " Consigo desenrolar bastante, aprendi em paralelo com HTML e JS, tenho 3 meses de experiência nessa tecnologia."
+    }
+  ]
+}
